@@ -1,4 +1,4 @@
-# Shadowsocks 翻墙管理系统
+# Shadowsocks 科学上网管理系统
 
 ## 基本特性
 
